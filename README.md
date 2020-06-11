@@ -32,7 +32,8 @@ npm start
 
 ## Libs
 
-"celebrate", "cors", "express", "knex", "multer", "sqlite3".
+"celebrate", "cors", "express", "knex", "multer", "sqlite3",
+"axios", "expo", "react-native", "react", "leaflet", "typescript"
 
 ## Authors
 👤 **Marcelo Fernando Scarpim**
