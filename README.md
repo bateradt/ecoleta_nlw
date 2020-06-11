@@ -35,5 +35,5 @@ npm start
 "celebrate", "cors", "express", "knex", "multer", "sqlite3",
 "axios", "expo", "react-native", "react", "leaflet", "typescript"
 
-## Authors
+## Author
 👤 **Marcelo Fernando Scarpim**
